@@ -1,0 +1,119 @@
+* {
+    text-align: center;
+  }
+  
+  .content-container {
+    border: solid 2px;
+    border-radius: 10px;
+  }
+
+  h2 {
+    color: #fff;
+    text-shadow: 0px 0px 10px #000;
+  }
+  
+  .colors h2 {
+    background-color: #cc1f1f;
+    width: 33%;
+    margin: 0px 5px;
+  }
+  
+  .fonts h2 {
+    margin: 10px 33% 0px;
+    background-color: #e6f029;
+    width: 33%;
+  }
+  
+  .text-styles h2 {
+    background-color: #164694;
+    width: 33%;
+    margin: 10px 0px 0px 66%;
+  }
+  
+  .color-container {
+    display: inline-block;
+    vertical-align: top;
+    width: 45%;
+    min-height: 150px;
+    color: white;
+    padding: 0px 5px;
+    margin: 20px auto;
+  }
+  .diabetes-blue {
+    background-color: #5d87c9;
+  }
+  .fresh-blood {
+    background-color: #cb3a3a;
+  }
+  .summer-night-blue {
+    background-color: #203860;
+  }
+  .raincloud-gray {
+    background-color: #949494;
+  }
+  .hex-code {
+    font-size: 20px;
+  }
+  
+  .font-container {
+    display: inline-block;
+    width: 45%;
+    min-height: 150px;
+    padding: 0px 5px;
+    margin: 20px auto;
+  }
+  .font-container h3 {
+    text-decoration: underline;
+  }
+  .font-container p {
+    font-size: 20px;
+  }
+  .rob-con {
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .lato {
+    font-family: 'Lato', sans-serif;
+  }
+  .open-sans {
+    font-family: 'Open Sans', sans-serif;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  .italic {
+    font-style: italic;
+  }
+  .underline {
+    text-decoration: underline;
+  }
+
+  .style-container {
+    display: inline-block;
+    width: 32%;
+    min-height: 150px;
+  }
+
+.main-head-style {
+  text-align: left;
+  font-size: 26px;
+  font-weight: 700;
+  font-family: 'Roboto-Condensed', sans-serif;
+  margin-left: 15px;
+}
+.subheading-style {
+  text-align: left;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Lato', sans-serif;
+  margin-left: 15px;
+}
+.paragraph-style {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Open-Source', sans-serif;
+  margin-left: 15px;
+}
+.list-style li {
+  text-align: left;
+}
